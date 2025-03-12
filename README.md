@@ -4,11 +4,14 @@
 
 - I'm a Computer science student at NTNU
 - I like low level programming and fullstack development
+- I recently started using LeetCode :3
 
-### Check out my recently started LeetCode
+### Check out my LeetCode
 
 <a href="https://leetcode.com/u/segward/" target="_blank">
-    <img src="https://icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode" width="auto" height="40" />
+    <button style="border:none; background:none; padding:0;">
+        <img src="https://icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode" width="auto" height="40" />
+    </button>
 </a>
 
 ### Technologies I use
