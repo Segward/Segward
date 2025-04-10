@@ -2,7 +2,7 @@
 
 ### About me
 
-- I'm a Computer science student at NTNU
+- I'm a computer science student at NTNU
 - I like low level programming and fullstack development
 - I recently started using LeetCode :3
 
